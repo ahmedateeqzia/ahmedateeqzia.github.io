@@ -1,0 +1,22 @@
+/*--------------------------------------------
+|	AAZ Main Fonts StyleSheet of AhmedAteeqZia
+|	Publisher and Developer: Mr Usama Ahmed
+|	E-mail: usamaahmed7@yahoo.com
+|	Web-site: www.ahmedateeqzia.blogspot.com
+|	Copyright: © 1994-2020 Ahmeds Media Inc.
+|	Warning ! This StyleSheet is marked as copyright laws.
+|	You have not permition to view or use it contains for any use.
+--------------------------------------------*/
+@font-face {
+  font-family: 'AAZ xFont';
+  font-style: normal;
+  font-weight: normal;
+  src: local('AAZ xFont Regular'), local('AAZ-xFont-Regular'), url(http://ahmedateeqzia.googlecode.com/svn/ahmedateeqzia/website/others/FontFiles/AAZ-xFont.woff) format('woff');
+}
+@font-face {
+  font-family: 'AAZ MrUA';
+  font-style: normal;
+  font-weight: normal;
+  src: local('AAZ MrUA Regular'), local('AAZ-MrUA-Regular'), url(http://ahmedateeqzia.googlecode.com/svn/ahmedateeqzia/website/others/FontFiles/AAZ-MrUA.woff) format('woff');
+}
+/*---- End of AAZ Main Fonts StyleSheet ----*/

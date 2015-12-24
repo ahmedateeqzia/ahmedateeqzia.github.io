@@ -1,0 +1,43 @@
+/*--------------------------------------------
+|	Main StyleSheet of Ahmed-Ateeq-Zia  v1.0
+|	Publisher and Developer: Usama Ahmed
+|	E-mail: usamaahmed7@yahoo.com
+|	Web-site: www.ahmedateeqzia.blogspot.com
+|	Copyright: © 1994-2020 Ahmeds Media Inc
+|	Warning ! This StyleSheet is marked as copyright laws.
+|	You have not permition to view or use it contains for any use.
+--------------------------------------------*/
+body { cursor:url(http://ahmedateeqzia.googlecode.com/svn/ahmedateeqzia/website/theme/main_cursor.cur), progress; background:url(http://4.bp.blogspot.com/-7uJz5KnnE-M/URC5a-ZYLGI/AAAAAAAAA-0/ShfLtFFpeGI/s1600/aaz-bg-texture.png);
+margin:0; } #aaz-main-contain #HTML99 { clear:both; } #aaz-main-contain { border:2px solid #4DA000; border-radius:8px;
+background:url(http://4.bp.blogspot.com/-cqaLQPP1WyU/UTJo4wnyahI/AAAAAAAABB4/_-FuoN0tNwc/s1600/aaz-view-bg.gif);
+position:relative; width:996px; height:auto; margin:2px auto 2px auto; padding:0; } #aaz-main-contain #aaz-main-logo {
+background:url(http://4.bp.blogspot.com/-nh4iHeYclGQ/UTMdzeqqyHI/AAAAAAAABCM/FWrLR3JjkRs/s1600/aaz-main-logo.gif) no-repeat left top;
+width:640px; height:164px; margin:0; padding:0; float:left; } #aaz-main-contain #aaz-main-description { float:right; width:356px;
+height:164px; background:url(http://4.bp.blogspot.com/-nh4iHeYclGQ/UTMdzeqqyHI/AAAAAAAABCM/FWrLR3JjkRs/s1600/aaz-main-logo.gif) right top;
+ } #aaz-main-contain #Blog1 #Blog1 { float:left; width:724px; background:#FFFFFF;
+margin:4px 0 12px 4px; border:none; min-height:1350px; } #aaz-main-contain #Blog1 #HTML1 { float:right; width:264px;
+background:#49B600; margin:4px 4px 12px 0; border:none; min-height:1000px; } #aaz-main-contain #PageList1 ul { padding:8px 10px;
+position:relative; margin:0 6px 4px 6px; list-style:none; border:1px solid #487000; float:left; clear:left;
+background:url(http://4.bp.blogspot.com/-QAph3VHZS1s/UQ_nOU5AI8I/AAAAAAAAA-k/S_xFyMq_CNE/s1600/raw-of-aaz-main-menu.gif) repeat-x top left;
+border-radius:3px; width:962px; } #aaz-main-contain #PageList1 ul li { float:left; display:inline; margin:0 8px;
+border-left:1px solid #3E6800; } #aaz-main-contain #PageList1 ul li a { text-decoration:none; float:left; color:#8FEB06;
+cursor:pointer; font-size:15px; font-family:impact, arial narrow, arial; text-shadow:2px 1px #386400; }
+#aaz-main-contain #PageList1 ul li a span { padding:1px 0 5px 12px; position:relative; float:left; }
+#aaz-main-contain #PageList1 ul li.selected a:hover, #aaz-main-contain #PageList1 ul li a:hover { color:#DAF800;
+} #aaz-main-contain #PageList1 ul li.selected a { color:#FFDA1A; } #aaz-main-contain #aaz-ua-list-icons { width:16px; height:16px;
+background:url(http://4.bp.blogspot.com/-QAph3VHZS1s/UQ_nOU5AI8I/AAAAAAAAA-k/S_xFyMq_CNE/s1600/raw-of-aaz-main-menu.gif) no-repeat;
+vertical-align:text-bottom; margin-right:6px; border:none; } #aaz-main-contain #footer { text-align:center; color:#6DD100;
+font-size:11px; font-family:arial; text-shadow:1px 1px #336100; font-weight:bold; margin:0 auto 12px auto; } #aaz-main-contain #footer a {
+text-decoration:none; color:#6DD100; } #aazsearchbox { position:absolute; right:12px; top:128px; } #aazsearchbox form {
+background:url(http://4.bp.blogspot.com/-zeQXJr22A-M/UZI8VDkDNqI/AAAAAAAABEQ/pUC8OBUzoK4/s1600/aaz-sb-bg.gif) no-repeat; width:254px;
+height:36px; border:none; -webkit-border-radius:4px; } #aazsearchbox #textbar { float:left; margin:7px auto 7px 11px;
+border:none; width:154px; height:14px; font-family:arial; font-weight:bold; font-size:16px; padding:4px;
+color:#B8FF00; background:#65C200; outline:none; } #aaz-main-contain #HTML1 div div.sidename {margin:8px auto 3px auto;width:254px;border-top:3px solid #270;
+font-size:15px;font-family:arial;font-weight:bold;padding:3px 0;border-radius:4px;color:#dfb;background:#380;text-shadow:1px 2px #250;}
+a, a:link, a:visited {color:#0C4;font:14px arial bold;text-decoration:none;} a:hover {color: #094;} a:active {color: #3C7;} #PageList1 ul li#aaz-menu-line {position:absolute;bottom:-3px;left:0;width:100px;height:3px;background:#5d0;border-radius:0 0 4px 4px;}
+p {font-size:13px;} #DownloadFile .DownloadbyAhmedAteeqZia { background:url(http://4.bp.blogspot.com/-sTIlRo9OR6w/UNxBf64g-EI/AAAAAAAAA64/1zD1HRwNvk8/s1600/download1_by_ahmed_ateeq_zia.gif) no-repeat; width:400px; height:75px; border:none;
+cursor:pointer; } #DownloadFile .DownloadbyAhmedAteeqZia:hover { background:url(http://4.bp.blogspot.com/-J1kKDq0UkTo/UNxBgFVyMGI/AAAAAAAAA60/BJRh_mx1hTE/s1600/download2_by_ahmed_ateeq_zia.gif) no-repeat; }
+#DownloadFile .ServerDownloader { background:url(http://4.bp.blogspot.com/-Xwr-p_kZMVo/UNxjOcXQmGI/AAAAAAAAA7M/abzhrq1oJpU/s1600/server_connecter.gif) no-repeat; width:400px; height:250px; border:none; }
+::-moz-selection {background:#2dec53;color:#efe;text-shadow:none;} ::selection {background:#2dec53;color:#efe;text-shadow:none;} ::-webkit-scrollbar-track {background:#FFFFFF;-webkit-box-shadow:inset 1px 1px 2px #E0E0E0;border:1px solid #D8D8D8;} ::-webkit-scrollbar-thumb {background-image:linear-gradient(to right, #67CC2C 0%, #95EE42 49%, #64BB29 100%);-webkit-box-shadow:inset 1px 1px 2px rgba(155, 155, 155, 0.4);} ::-webkit-scrollbar-thumb:hover {-webkit-box-shadow:inset 1px 1px 10px rgba(0,0,0,0.3);} ::-webkit-scrollbar-thumb:active {background:#58c205;-webkit-box-shadow:inset 1px 1px 2px rgba(0,0,0,0.3);} ::-webkit-scrollbar {width:10px;height:8px;}
+
+/*------ End of Main StyleSheet ------*/

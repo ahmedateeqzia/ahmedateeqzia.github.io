@@ -1,0 +1,58 @@
+<!------------------------------------------------------------
+|	HTML Hover Clock for Ahmed-Ateeq-Zia  v 1.0
+|	Publisher and Developer: Usama Ahmed
+|	E-mail: usamaahmed7@yahoo.com
+|	Web-site: www.ahmedateeqzia.blogspot.com
+|	Copyright: © 1994-2020 Ahmeds Media Inc
+|	Warning ! This HTML is marked as copyright laws.
+|	You have not permition to view or use it contains for any use.
+-------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<title>HTML Hover Clock for Ahmed-Ateeq-Zia  v 1.0</title>
+<head>
+<style type="text/css">
+#current-date-for-aaz {
+margin:0;
+cursor:default;
+font-family:arial;
+font-size:18px;
+color:#B4FF6F;
+font-weight:bold;
+border:2px dotted #8FDF00;
+padding:0 6px 0 6px;
+background:url(http://4.bp.blogspot.com/-cqaLQPP1WyU/UTJo4wnyahI/AAAAAAAABB4/_-FuoN0tNwc/s1600/aaz-view-bg.gif) no-repeat;
+}
+</style>
+<script type="text/javascript">
+function DisplayTime(){
+if (!document.all && !document.getElementById)
+return
+timeElement=document.getElementById? document.getElementById("date-for-aaz"): document.all.tick2
+var CurrentDate=new Date()
+var hours=CurrentDate.getHours()
+var minutes=CurrentDate.getMinutes()
+var seconds=CurrentDate.getSeconds()
+var DayNight="PM"
+if (hours<12) DayNight="AM";
+if (hours>12) hours=hours-12;
+if (hours==0) hours=12;
+if (minutes<=9) minutes="0"+minutes;
+if (seconds<=9) seconds="0"+seconds;
+var currentTime=hours+":"+minutes+":"+seconds+" "+DayNight;
+timeElement.innerHTML=currentTime
+setTimeout("DisplayTime()",1000)
+}
+window.onload=DisplayTime
+</script>
+</head>
+<body>
+<div style="position:absolute; left:2px; top:2px;">
+<font id="current-date-for-aaz">
+<span id="date-for-aaz"></span>
+</font>
+</div>
+</body>
+</html>
+<!--	End of HTML Hover Clock
+-------------------------------------------------------------->
